@@ -1,0 +1,5 @@
+#includes "Event.h"
+
+Event::Event(){}
+
+bool Event::consume(){}

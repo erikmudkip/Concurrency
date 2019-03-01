@@ -1,0 +1,8 @@
+#include "SafeBuffer.h"
+
+int SafeBuffer::push(Event newEric){
+  theData.push_back(newEric);
+}
+
+Event SafeBuffer::pop(){
+}
